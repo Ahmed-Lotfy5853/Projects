@@ -1,6 +1,6 @@
-# Simple ToDo App
+# Simple IOT App
 
-ToDo App is a simple and intuitive Flutter-based mobile application for managing your tasks. It allows you to organize tasks into categories, view tasks, mark them as done, archive completed tasks, and add new tasks effortlessly.
+Simple IOT App is a simple and intuitive Flutter-based mobile application for control robotic arm 4 degrees of freedom. It allows you to control robotic arm effortlessly.
 
 ## Table of Contents
 - [Features](#features)
@@ -12,11 +12,10 @@ ToDo App is a simple and intuitive Flutter-based mobile application for managing
 - [License](#license)
 
 ## Features
-- **View Tasks**: Easily view your list of tasks categorized as "To-Do," "Done," and "Archived."
-- **Add New Tasks**: Quickly insert new tasks with titles ,time and date.
-- **Mark as Done**: Easily mark tasks as done to track your progress.
-- **Archive Completed Tasks**: Keep your completed tasks organized and out of the way.
-- **Remove Tasks**: Permanently remove tasks that are no longer needed.
+- **connect robot arm**: Easily view your list of tasks categorized as "To-Do," "Done," and "Archived."
+- **control robotic arm**: Quickly insert new tasks with titles ,time and date.
+- **change robotic arm code**: Easily mark tasks as done to track your progress.
+
 
 ## Screenshots
 ![Empty New Tasks Screen](/screenshots/empty_new_tasks_Screen.png)
@@ -29,15 +28,13 @@ ToDo App is a simple and intuitive Flutter-based mobile application for managing
 ![Form Validation](/screenshots/form_validation.png)
 
 ## Techniques and Technologies Used
-The ToDo App is built using the following techniques and technologies:
+The Simple IOT App is built using the following techniques and technologies:
 
 - **Flutter**: A cross-platform UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
 
 - **Dart**: The programming language used for building Flutter apps.
 
-- **State Management**: We use [Bloc/flutter_bloc] for managing the app's state efficiently.
-
-- **Database**: [sqflite] is used for storing task data.
+- **State Management**: We use [setState] for managing the app's state efficiently.
 
 - **UI Components**: We leverage Flutter's rich set of UI components and widgets for creating a seamless user experience.
 
@@ -49,7 +46,7 @@ Feel free to explore and contribute to the codebase to learn more about the impl
 
 
 ## Getting Started
-To run the ToDo App on your local machine, follow these steps:
+To run the Simple IOT App on your local machine, follow these steps:
 
 1. Clone this repository.
 2. Navigate to the project directory.
@@ -70,14 +67,14 @@ To run the app on android machine tap on the link from the desird android machin
 6. To permanently remove a task, swipe left or right on it"
 
 ## Contributing
-We welcome contributions to the ToDo App! If you'd like to contribute, please follow these guidelines:
+We welcome contributions to the Simple IOT App! If you'd like to contribute, please follow these guidelines:
 
 - [How to report a bug](CONTRIBUTING.md#reporting-a-bug)
 - [How to suggest a new feature](CONTRIBUTING.md#suggesting-a-feature)
 - [How to submit a pull request](CONTRIBUTING.md#submitting-a-pull-request)
 
 ## License
-Simple ToDo App is open-source software.
+Simple IOT App is open-source software.
 
 ## Acknowledgments
 - Special thanks to the Flutter community for their support and contributions.

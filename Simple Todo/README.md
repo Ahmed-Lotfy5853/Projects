@@ -19,14 +19,12 @@ ToDo App is a simple and intuitive Flutter-based mobile application for managing
 - **Remove Tasks**: Permanently remove tasks that are no longer needed.
 
 ## Screenshots
-![Empty New Tasks Screen](/screenshots/empty_new_tasks_Screen.png)
-![New Tasks Screen](/screenshots/new_tasks_Screen.png)
-![Done Tasks Screen](/screenshots/done_tasks_screen.png)
-![Archived Tasks Screen](/screenshots/archived_tasks_screen.png)
-![Insert Task ](/screenshots/insert_task.png)
-![Time Picker](/screenshots/time_picker.png)
-![Date Picker](/screenshots/date_picker.png)
-![Form Validation](/screenshots/form_validation.png)
+![Empty New Tasks Screen](/Simple Todo/screenshots/empty_screen.jpg)
+![New Tasks Screen](/Simple Todo/screenshots/new_Screen.jpg)
+![Done Tasks Screen](/Simple Todo/screenshots/done_screen.jpg)
+![Archived Tasks Screen](/Simple Todo/screenshots/archived_screen.jpg)
+![Insert Task ](/Simple Todo/screenshots/add_screen.jpg)
+
 
 ## Techniques and Technologies Used
 The ToDo App is built using the following techniques and technologies:
